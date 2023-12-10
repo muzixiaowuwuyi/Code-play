@@ -52,7 +52,7 @@ function Dashboard() {
       {layouts && widgets ? (
         <div className="max-w-[1280px] mx-auto">
           <ResponsiveGridLayout
-            className="border-1 border-transparent rounded-lg backdrop-blur-[10px] bg-white/20"
+            className="border-2 border-transparent rounded-lg backdrop-blur-[10px] bg-white/20"
             breakpoints={{ lg: 1024, md: 768, sm: 640 }}
             cols={{ lg: 4, md: 2, sm: 1 }}
             layouts={layouts}
