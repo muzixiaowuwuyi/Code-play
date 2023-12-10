@@ -4,10 +4,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        'cp-blue': '#3E4784',
+        'cp-blue': '#285f7a',
         'cp-light-blue': '#EAECF5',
         'cp-dark-blue': '#293056',
-        'cp-middle-blue': '#9EA5D1',
+        'cp-middle-blue': '#279ab4',
       },
 
       keyframes: {
