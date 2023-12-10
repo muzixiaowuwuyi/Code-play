@@ -29,7 +29,7 @@ $ git clone https://github.com/muzixiaowuwuyi/Code-play.git
 # Using SSH
 $ git clone git@github.com:muzixiaowuwuyi/Code-play.git
 
-$ cd Stream
+$ cd Code-play
 ```
 
 #### Frontend dependencies
@@ -50,16 +50,22 @@ $ npm install
 
 #### Backend
 
+Berfor starting back-end server, you should allways start the docker at first
+
 ```bash
 $ cd server
 $ npm run start-mongodb-docker
+```
+
+```bash
+$ cd server
 $ npm start
 ```
 
 #### Frontend
 
 ```bash
-$ cd client
+$ cd Agenda-client
 $ npm run dev
 ```
 
@@ -68,15 +74,25 @@ $ npm run dev
 #### Unit test
 
 ```
+$ cd Agenda-client
+$ npm run test
+```
+
+```
+$ cd server
 $ npm run test
 ```
 
 ### Contributors
 
-[Guangzheng Li](https://github.com/muzixiaowuwuyi) <br>
-[Michele Maffei](https://github.com/itzMaffi) <br>
-[Mads Baadsmand](https://github.com/MadsPB)<br>
-[Dinara Bekeshova](https://github.com/dinarabs)<br>
+[Guangzheng Li](https://github.com/muzixiaowuwuyi)
+
+[Michele Maffei](https://github.com/itzMaffi)
+
+[Mads Baadsmand](https://github.com/MadsPB)
+
+[Dinara Bekeshova](https://github.com/dinarabs)
+
 [Oguz Tugan](https://github.com/dayt47)
 
 ### Project Link
