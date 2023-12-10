@@ -1,3 +1,9 @@
 # Code-play
 
-test message.
+Codeplay is a webpage developed for a code boot camp. The webpage is composed of many freely customizable widgets, and users can log in using their Google accounts and manage their interfaces as they wish. The webpage offers various features, including the 'Lecture of the Day' and 'Ask for Help' functionalities，etc.
+
+![Code-play intro](https://github.com/muzixiaowuwuyi/Stream/blob/main/assets/stream.gif)
+
+## Tech Stack
+
+![Code-play tech stack](https://github.com/muzixiaowuwuyi/Stream/blob/main/assets/Tech-Stack.jpg)
